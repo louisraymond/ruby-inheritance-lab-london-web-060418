@@ -8,4 +8,4 @@ class User
  
   end
   
-  
+end
